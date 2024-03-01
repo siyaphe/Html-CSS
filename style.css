@@ -1,0 +1,27 @@
+header {
+    margin: 1em;
+    padding: 10px;
+    display: flex
+}
+
+.logContainer {
+    border: solid green;
+    height: 200px;
+    
+}
+
+div {
+    border: solid red;
+    margin: 1em;
+    padding: 10px;
+    width: 200px;
+    
+    
+
+
+}
+
+.Login {
+
+}
+
